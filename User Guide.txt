@@ -1,0 +1,11 @@
+To use the "A Library System" (ALS), please kindly follow the steps below:
+
+1. Execute CreateDatabase.sql in MySQL workbench
+
+2. Edit connection.py file, key in your host name, user name and password.
+
+3. Run initialise_data.py in Python environment
+
+4. Run interface.py in Python environment and access the functions from the interface windows.
+
+Thank you. 
